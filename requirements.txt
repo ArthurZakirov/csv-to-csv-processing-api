@@ -2,3 +2,4 @@ uvicorn
 fastapi
 pandas
 python-multipart
+httpx
